@@ -28,7 +28,7 @@ End-to-end AI-powered banking chatbot with admin controls, compliance checks, an
 - SQLAlchemy
 - LangChain
 - OpenAI API
-- Vector DB (FAISS / Chroma)
+- Vector DB (Qdrant)
 - SQLite / PostgreSQL
 
 ---
