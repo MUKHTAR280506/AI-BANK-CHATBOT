@@ -152,6 +152,8 @@ AI-BANK-CHATBOT/
 
 ## 🔹 HOW TO RUN
 
+clone the repository to your computer using git commands. 
+
 ### Backend
 run docker-compose up --build to get the docker images
 
