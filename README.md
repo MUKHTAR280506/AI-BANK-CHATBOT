@@ -151,6 +151,9 @@ AI-BANK-CHATBOT/
 ---
 
 ## 🔹 HOW TO RUN
+Note-  openai api keys are removed from this repository as it is private to creator . To run the app save your api keys in .env file 
+
+
 
 clone the repository to your computer using git commands. 
 git remote add origin https://github.com/MUKHTAR280506/AI-BANK-CHATBOT.git
