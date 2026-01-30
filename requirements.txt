@@ -1,0 +1,12 @@
+fastapi==0.127.0
+langchain==0.3.25
+langchain_community==0.3.23
+langchain_openai==0.3.16
+pydantic==2.12.5
+python-dotenv==0.21.0
+qdrant_client==1.16.2
+SQLAlchemy==2.0.25
+uvicorn==0.34.0
+pymongo==4.3.3
+psycopg2-binary==2.9.6
+python-multipart==0.0.20
