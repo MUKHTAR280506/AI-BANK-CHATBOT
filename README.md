@@ -211,7 +211,7 @@ GitHub: https://github.com/MUKHTAR280506
 
 LinkedIn: https://www.linkedin.com/in/mukhtar280506/
 
-🔒 Repository is private. Access available on request.
+
 
 images-![Admin customer management](https://github.com/user-attachments/assets/805733cc-f8a7-49e4-a7b9-c8b6eaff42f5)
 ![chatbot beneficiary addition](https://github.com/user-attachments/assets/4ada4524-cac5-4f1f-9a23-45154db9a4ff)
