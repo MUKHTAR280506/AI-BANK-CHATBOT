@@ -157,7 +157,7 @@ Note-  openai api keys are removed from this repository as it is private to crea
 
 clone the repository to your computer using git commands. 
 git remote add origin https://github.com/MUKHTAR280506/AI-BANK-CHATBOT.git
-git push -u origin main
+
 
 ### Backend
 run docker-compose up --build to get the docker images for postgresql and qdrant 
