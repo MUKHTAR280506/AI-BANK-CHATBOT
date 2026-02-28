@@ -1,3 +1,16 @@
+images-![Admin customer management](https://github.com/user-attachments/assets/805733cc-f8a7-49e4-a7b9-c8b6eaff42f5)
+![chatbot beneficiary addition](https://github.com/user-attachments/assets/4ada4524-cac5-4f1f-9a23-45154db9a4ff)
+![chatbot complaint registration](https://github.com/user-attachments/assets/47626507-7a36-49e1-a7f0-2a6e62230975)
+![chatbot funds transfer](https://github.com/user-attachments/assets/56746935-9d72-4931-8ccd-798b4ab6665c)
+![chatbot transaction history](https://github.com/user-attachments/assets/eb976c73-aaa0-4cd9-9aa7-8ce7e2cb7414)
+![login_page](https://github.com/user-attachments/assets/446b64eb-db1d-48b5-a6cd-8ddfd8af2fda)
+![admin page 1](https://github.com/user-attachments/assets/4d1561ac-640d-485c-ae36-d4338863ee64)
+
+
+
+
+
+
 # 🏦 AI BANK CHATBOT
 
 End-to-end AI-powered banking chatbot with admin controls, compliance checks, and LLM-driven intelligence.
